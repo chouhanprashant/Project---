@@ -81,24 +81,3 @@ GenAI tools like ChatGPT, Copilot, and Bard are being used across companies. But
 4. Phase 4: Mobile app for BYOD monitoring
 
 ---
-
-## 👥 Team
-
-- **Prashant** (Founder): Cybersecurity + AI background
-- 1 React/Node Developer, 1 ML Engineer (Python/NLP)
-- Advisors: 1 CISO, 1 Compliance Expert
-
----
-
-## 🎯 The Ask
-
-> Raising ₹1.5 crore (~$180K) to build out AI engine, onboard 50+ SMBs, and scale GTM
-
-**Use of Funds:**
-
-- 40% Product development  
-- 30% Sales & marketing  
-- 20% Compliance & certifications  
-- 10% Ops & legal
-
----
