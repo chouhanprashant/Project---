@@ -102,10 +102,3 @@ GenAI tools like ChatGPT, Copilot, and Bard are being used across companies. But
 - 10% Ops & legal
 
 ---
-
-## ✅ Closing
-
-> _“GenAI is the future. GenShield makes it safe.”_
-
-📞 Contact: prashant@genshield.ai  
-🌐 Demo: [www.genshield.ai/demo](http://www.genshield.ai/demo)
