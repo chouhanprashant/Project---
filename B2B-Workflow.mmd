@@ -1,0 +1,15 @@
+flowchart TD
+    A[Employee types prompt<br>in ChatGPT] --> B(GenShield Browser Extension<br>intercepts prompt)
+    B --> C{Is user logged into<br>company's GenShield tenant?}
+    C -- Yes --> D[Sends prompt to<br>Organization's Private GenShield Server]
+    C -- No --> E[Block Action<br><i>Extension is useless without login</i>]
+    
+    subgraph OrgControl [Organization-Controlled Infrastructure]
+        D --> F[Risk Analysis Engine<br>Company-specific rules]
+        F --> G[Centralized Logging & Alerting<br>All activity recorded]
+        G --> H[Real-Time Alerts to Admin<br>via Slack, Teams, Email]
+        G --> I[Compliance Dashboard<br>for Auditing & Reporting]
+    end
+
+    F --> J[Return Risk Score to Extension]
+    J --> K[Extension shows warning<br>or blocks based on policy]
